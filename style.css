@@ -35,11 +35,11 @@ body {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
 /* === Header === */
@@ -185,10 +185,10 @@ button:active {
 .cart.open {
   right: 0;
   width: 23vw;
-  h2{
-    margin-top: 60px;
-    font-size: 2.5rem;
-  }
+}
+.cart.open h2{
+  margin-top: 60px;
+  font-size: 2.5rem;
 }
 
 .cart-info {
@@ -207,13 +207,13 @@ button:active {
   border: 1px solid #ffffff;
   border-radius: 15px;
   z-index: 1000;
-  span {
-    font-size: 16px !important;
-  }
-  button{
-    border: 1px solid white !important;
+}
+.cart.info span {
+  font-size: 16px !important;
+}
+ .cart.info button{
+  border: 1px solid white !important;
 
-  }
 }
 
 .cart-info .Span-Item {
@@ -250,9 +250,9 @@ span, input{
   user-select: none;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   border: var(--border-default);
-  .Price-Card{
-    color: rgb(0, 0, 0);
-  }
+}
+.Price-Card{
+  color: rgb(0, 0, 0);
 }
 
 .product-card:hover {
