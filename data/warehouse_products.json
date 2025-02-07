@@ -1,0 +1,1002 @@
+[
+    {
+        "id":1,
+        "brand":"Asus",
+        "productName":"ROG Strix Scope RX",
+        "category":"Gaming Tastatur",
+        "price":"1246.7 €",
+        "stock":164,
+        "description":"Original Asus ROG Strix Scope RX für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.asus.com\/rog.jpg"
+    },
+    {
+        "id":2,
+        "brand":"MSI",
+        "productName":"Katana GF66",
+        "category":"Gaming Laptop",
+        "price":"471.67 €",
+        "stock":237,
+        "description":"Original MSI Katana GF66 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.msi.com\/gaming_laptop.jpg"
+    },
+    {
+        "id":3,
+        "brand":"Corsair",
+        "productName":"Virtuoso RGB Wireless",
+        "category":"Gaming Headset",
+        "price":"1199.97 €",
+        "stock":281,
+        "description":"Original Corsair Virtuoso RGB Wireless für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.corsair.com\/virtuoso.jpg"
+    },
+    {
+        "id":4,
+        "brand":"Lenovo",
+        "productName":"Legion 7",
+        "category":"Gaming Laptop",
+        "price":"2970.07 €",
+        "stock":211,
+        "description":"Original Lenovo Legion 7 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.lenovo.com\/legion_7.jpg"
+    },
+    {
+        "id":5,
+        "brand":"Asus",
+        "productName":"ROG Chakram X",
+        "category":"Gaming Maus",
+        "price":"2828.28 €",
+        "stock":135,
+        "description":"Original Asus ROG Chakram X für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.asus.com\/rog.jpg"
+    },
+    {
+        "id":6,
+        "brand":"Razer",
+        "productName":"Huntsman Mini",
+        "category":"Gaming Tastatur",
+        "price":"1903.66 €",
+        "stock":390,
+        "description":"Original Razer Huntsman Mini für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.razer.com\/blackshark.jpg"
+    },
+    {
+        "id":7,
+        "brand":"Razer",
+        "productName":"Huntsman Mini",
+        "category":"Gaming Tastatur",
+        "price":"780.46 €",
+        "stock":415,
+        "description":"Original Razer Huntsman Mini für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.razer.com\/blackshark.jpg"
+    },
+    {
+        "id":8,
+        "brand":"Asus",
+        "productName":"ROG Zephyrus G14",
+        "category":"Gaming Laptop",
+        "price":"2874.53 €",
+        "stock":196,
+        "description":"Original Asus ROG Zephyrus G14 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.asus.com\/rog.jpg"
+    },
+    {
+        "id":9,
+        "brand":"Nintendo",
+        "productName":"Nintendo Switch OLED",
+        "category":"Gaming Konsole",
+        "price":"2383.82 €",
+        "stock":69,
+        "description":"Original Nintendo Nintendo Switch OLED für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.nintendo.com\/switch_oled.jpg"
+    },
+    {
+        "id":10,
+        "brand":"Corsair",
+        "productName":"Dark Core RGB Pro SE",
+        "category":"Gaming Maus",
+        "price":"482.56 €",
+        "stock":484,
+        "description":"Original Corsair Dark Core RGB Pro SE für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.corsair.com\/virtuoso.jpg"
+    },
+    {
+        "id":11,
+        "brand":"Intel",
+        "productName":"Arc A770",
+        "category":"Grafikkarte",
+        "price":"784.83 €",
+        "stock":52,
+        "description":"Original Intel Arc A770 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.intel.com\/arc_a770.jpg"
+    },
+    {
+        "id":12,
+        "brand":"Razer",
+        "productName":"BlackShark V2 Pro",
+        "category":"Gaming Headset",
+        "price":"1693.48 €",
+        "stock":413,
+        "description":"Original Razer BlackShark V2 Pro für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.razer.com\/blackshark.jpg"
+    },
+    {
+        "id":13,
+        "brand":"Asus",
+        "productName":"ROG Strix Scope RX",
+        "category":"Gaming Tastatur",
+        "price":"393.34 €",
+        "stock":34,
+        "description":"Original Asus ROG Strix Scope RX für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.asus.com\/rog.jpg"
+    },
+    {
+        "id":14,
+        "brand":"SteelSeries",
+        "productName":"Apex Pro",
+        "category":"Gaming Tastatur",
+        "price":"779.91 €",
+        "stock":386,
+        "description":"Original SteelSeries Apex Pro für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.steelseries.com\/arctis_nova.jpg"
+    },
+    {
+        "id":15,
+        "brand":"Razer",
+        "productName":"DeathAdder V3 Pro",
+        "category":"Gaming Maus",
+        "price":"376.95 €",
+        "stock":485,
+        "description":"Original Razer DeathAdder V3 Pro für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.razer.com\/blackshark.jpg"
+    },
+    {
+        "id":16,
+        "brand":"Corsair",
+        "productName":"Dark Core RGB Pro SE",
+        "category":"Gaming Maus",
+        "price":"1901.15 €",
+        "stock":318,
+        "description":"Original Corsair Dark Core RGB Pro SE für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.corsair.com\/virtuoso.jpg"
+    },
+    {
+        "id":17,
+        "brand":"Razer",
+        "productName":"BlackShark V2 Pro",
+        "category":"Gaming Headset",
+        "price":"1531.19 €",
+        "stock":489,
+        "description":"Original Razer BlackShark V2 Pro für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.razer.com\/blackshark.jpg"
+    },
+    {
+        "id":18,
+        "brand":"Valve",
+        "productName":"Steam Deck",
+        "category":"Handheld Gaming",
+        "price":"83.48 €",
+        "stock":79,
+        "description":"Original Valve Steam Deck für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.valve.com\/steam_deck.jpg"
+    },
+    {
+        "id":19,
+        "brand":"Corsair",
+        "productName":"K95 RGB Platinum",
+        "category":"Gaming Tastatur",
+        "price":"2024.16 €",
+        "stock":278,
+        "description":"Original Corsair K95 RGB Platinum für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.corsair.com\/virtuoso.jpg"
+    },
+    {
+        "id":20,
+        "brand":"Corsair",
+        "productName":"Dark Core RGB Pro SE",
+        "category":"Gaming Maus",
+        "price":"2244.3 €",
+        "stock":436,
+        "description":"Original Corsair Dark Core RGB Pro SE für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.corsair.com\/virtuoso.jpg"
+    },
+    {
+        "id":21,
+        "brand":"Razer",
+        "productName":"BlackShark V2 Pro",
+        "category":"Gaming Headset",
+        "price":"1273.77 €",
+        "stock":339,
+        "description":"Original Razer BlackShark V2 Pro für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.razer.com\/blackshark.jpg"
+    },
+    {
+        "id":22,
+        "brand":"SteelSeries",
+        "productName":"Arctis Nova Pro",
+        "category":"Gaming Headset",
+        "price":"1714.16 €",
+        "stock":215,
+        "description":"Original SteelSeries Arctis Nova Pro für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.steelseries.com\/arctis_nova.jpg"
+    },
+    {
+        "id":23,
+        "brand":"Nvidia",
+        "productName":"GeForce RTX 4080",
+        "category":"Grafikkarte",
+        "price":"2144.52 €",
+        "stock":25,
+        "description":"Original Nvidia GeForce RTX 4080 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.nvidia.com\/rtx_4090.jpg"
+    },
+    {
+        "id":24,
+        "brand":"Asus",
+        "productName":"ROG Chakram X",
+        "category":"Gaming Maus",
+        "price":"144.48 €",
+        "stock":78,
+        "description":"Original Asus ROG Chakram X für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.asus.com\/rog.jpg"
+    },
+    {
+        "id":25,
+        "brand":"Logitech",
+        "productName":"G502 X Plus",
+        "category":"Gaming Maus",
+        "price":"1285.45 €",
+        "stock":462,
+        "description":"Original Logitech G502 X Plus für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.logitech.com\/gpro_x.jpg"
+    },
+    {
+        "id":26,
+        "brand":"Intel",
+        "productName":"Arc A770",
+        "category":"Grafikkarte",
+        "price":"1129.53 €",
+        "stock":269,
+        "description":"Original Intel Arc A770 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.intel.com\/arc_a770.jpg"
+    },
+    {
+        "id":27,
+        "brand":"Sony",
+        "productName":"PlayStation 5",
+        "category":"Gaming Konsole",
+        "price":"233.44 €",
+        "stock":249,
+        "description":"Original Sony PlayStation 5 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.sony.com\/playstation5.jpg"
+    },
+    {
+        "id":28,
+        "brand":"Alienware",
+        "productName":"x17 R2",
+        "category":"Gaming Laptop",
+        "price":"2707.93 €",
+        "stock":181,
+        "description":"Original Alienware x17 R2 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.alienware.com\/monitor.jpg"
+    },
+    {
+        "id":29,
+        "brand":"SteelSeries",
+        "productName":"Apex Pro",
+        "category":"Gaming Tastatur",
+        "price":"937.2 €",
+        "stock":410,
+        "description":"Original SteelSeries Apex Pro für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.steelseries.com\/arctis_nova.jpg"
+    },
+    {
+        "id":30,
+        "brand":"Alienware",
+        "productName":"x17 R2",
+        "category":"Gaming Laptop",
+        "price":"421.07 €",
+        "stock":484,
+        "description":"Original Alienware x17 R2 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.alienware.com\/monitor.jpg"
+    },
+    {
+        "id":31,
+        "brand":"Alienware",
+        "productName":"AW3423DW QD-OLED",
+        "category":"Gaming Monitor",
+        "price":"517.86 €",
+        "stock":499,
+        "description":"Original Alienware AW3423DW QD-OLED für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.alienware.com\/monitor.jpg"
+    },
+    {
+        "id":32,
+        "brand":"Alienware",
+        "productName":"AW3423DW QD-OLED",
+        "category":"Gaming Monitor",
+        "price":"2276.16 €",
+        "stock":20,
+        "description":"Original Alienware AW3423DW QD-OLED für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.alienware.com\/monitor.jpg"
+    },
+    {
+        "id":33,
+        "brand":"Samsung",
+        "productName":"Odyssey Neo G9",
+        "category":"Gaming Monitor",
+        "price":"2591.98 €",
+        "stock":389,
+        "description":"Original Samsung Odyssey Neo G9 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.samsung.com\/odyssey_g9.jpg"
+    },
+    {
+        "id":34,
+        "brand":"Intel",
+        "productName":"Arc A770",
+        "category":"Grafikkarte",
+        "price":"1375.07 €",
+        "stock":309,
+        "description":"Original Intel Arc A770 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.intel.com\/arc_a770.jpg"
+    },
+    {
+        "id":35,
+        "brand":"Razer",
+        "productName":"Huntsman Mini",
+        "category":"Gaming Tastatur",
+        "price":"412.18 €",
+        "stock":36,
+        "description":"Original Razer Huntsman Mini für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.razer.com\/blackshark.jpg"
+    },
+    {
+        "id":36,
+        "brand":"Gigabyte",
+        "productName":"Aorus FI32U",
+        "category":"Gaming Monitor",
+        "price":"574.45 €",
+        "stock":42,
+        "description":"Original Gigabyte Aorus FI32U für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.gigabyte.com\/aorus.jpg"
+    },
+    {
+        "id":37,
+        "brand":"Nvidia",
+        "productName":"GeForce RTX 4090",
+        "category":"Grafikkarte",
+        "price":"2997.78 €",
+        "stock":278,
+        "description":"Original Nvidia GeForce RTX 4090 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.nvidia.com\/rtx_4090.jpg"
+    },
+    {
+        "id":38,
+        "brand":"Samsung",
+        "productName":"Odyssey Neo G9",
+        "category":"Gaming Monitor",
+        "price":"299.13 €",
+        "stock":465,
+        "description":"Original Samsung Odyssey Neo G9 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.samsung.com\/odyssey_g9.jpg"
+    },
+    {
+        "id":39,
+        "brand":"SteelSeries",
+        "productName":"Apex Pro",
+        "category":"Gaming Tastatur",
+        "price":"1454.71 €",
+        "stock":125,
+        "description":"Original SteelSeries Apex Pro für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.steelseries.com\/arctis_nova.jpg"
+    },
+    {
+        "id":40,
+        "brand":"Logitech",
+        "productName":"G915 TKL",
+        "category":"Gaming Tastatur",
+        "price":"2754.03 €",
+        "stock":20,
+        "description":"Original Logitech G915 TKL für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.logitech.com\/gpro_x.jpg"
+    },
+    {
+        "id":41,
+        "brand":"Nvidia",
+        "productName":"GeForce RTX 4090",
+        "category":"Grafikkarte",
+        "price":"2188.85 €",
+        "stock":277,
+        "description":"Original Nvidia GeForce RTX 4090 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.nvidia.com\/rtx_4090.jpg"
+    },
+    {
+        "id":42,
+        "brand":"Lenovo",
+        "productName":"Legion 7",
+        "category":"Gaming Laptop",
+        "price":"2105.85 €",
+        "stock":406,
+        "description":"Original Lenovo Legion 7 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.lenovo.com\/legion_7.jpg"
+    },
+    {
+        "id":43,
+        "brand":"AMD",
+        "productName":"Radeon RX 7900 XTX",
+        "category":"Grafikkarte",
+        "price":"2016.61 €",
+        "stock":92,
+        "description":"Original AMD Radeon RX 7900 XTX für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.amd.com\/radeon_7900.jpg"
+    },
+    {
+        "id":44,
+        "brand":"Microsoft",
+        "productName":"Xbox Series X",
+        "category":"Gaming Konsole",
+        "price":"502.53 €",
+        "stock":283,
+        "description":"Original Microsoft Xbox Series X für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.microsoft.com\/xbox_series_x.jpg"
+    },
+    {
+        "id":45,
+        "brand":"Asus",
+        "productName":"ROG Strix Scope RX",
+        "category":"Gaming Tastatur",
+        "price":"2471.77 €",
+        "stock":190,
+        "description":"Original Asus ROG Strix Scope RX für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.asus.com\/rog.jpg"
+    },
+    {
+        "id":46,
+        "brand":"LG",
+        "productName":"UltraGear 27GP950",
+        "category":"Gaming Monitor",
+        "price":"150.29 €",
+        "stock":384,
+        "description":"Original LG UltraGear 27GP950 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.lg.com\/ultragear.jpg"
+    },
+    {
+        "id":47,
+        "brand":"Razer",
+        "productName":"BlackShark V2 Pro",
+        "category":"Gaming Headset",
+        "price":"1738.93 €",
+        "stock":475,
+        "description":"Original Razer BlackShark V2 Pro für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.razer.com\/blackshark.jpg"
+    },
+    {
+        "id":48,
+        "brand":"Sony",
+        "productName":"PlayStation 5",
+        "category":"Gaming Konsole",
+        "price":"2144.68 €",
+        "stock":89,
+        "description":"Original Sony PlayStation 5 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.sony.com\/playstation5.jpg"
+    },
+    {
+        "id":49,
+        "brand":"Alienware",
+        "productName":"AW3423DW QD-OLED",
+        "category":"Gaming Monitor",
+        "price":"1117.7 €",
+        "stock":86,
+        "description":"Original Alienware AW3423DW QD-OLED für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.alienware.com\/monitor.jpg"
+    },
+    {
+        "id":50,
+        "brand":"Logitech",
+        "productName":"G502 X Plus",
+        "category":"Gaming Maus",
+        "price":"1530.65 €",
+        "stock":496,
+        "description":"Original Logitech G502 X Plus für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.logitech.com\/gpro_x.jpg"
+    },
+    {
+        "id":51,
+        "brand":"Logitech",
+        "productName":"G915 TKL",
+        "category":"Gaming Tastatur",
+        "price":"1079.62 €",
+        "stock":334,
+        "description":"Original Logitech G915 TKL für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.logitech.com\/gpro_x.jpg"
+    },
+    {
+        "id":52,
+        "brand":"Razer",
+        "productName":"BlackShark V2 Pro",
+        "category":"Gaming Headset",
+        "price":"1293.08 €",
+        "stock":495,
+        "description":"Original Razer BlackShark V2 Pro für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.razer.com\/blackshark.jpg"
+    },
+    {
+        "id":53,
+        "brand":"LG",
+        "productName":"UltraGear 27GP950",
+        "category":"Gaming Monitor",
+        "price":"117.52 €",
+        "stock":496,
+        "description":"Original LG UltraGear 27GP950 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.lg.com\/ultragear.jpg"
+    },
+    {
+        "id":54,
+        "brand":"Asus",
+        "productName":"ROG Ally",
+        "category":"Handheld Gaming",
+        "price":"2838.94 €",
+        "stock":385,
+        "description":"Original Asus ROG Ally für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.asus.com\/rog.jpg"
+    },
+    {
+        "id":55,
+        "brand":"Logitech",
+        "productName":"G Pro X Wireless",
+        "category":"Gaming Headset",
+        "price":"2156.24 €",
+        "stock":208,
+        "description":"Original Logitech G Pro X Wireless für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.logitech.com\/gpro_x.jpg"
+    },
+    {
+        "id":56,
+        "brand":"LG",
+        "productName":"UltraGear 27GP950",
+        "category":"Gaming Monitor",
+        "price":"1705.8 €",
+        "stock":126,
+        "description":"Original LG UltraGear 27GP950 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.lg.com\/ultragear.jpg"
+    },
+    {
+        "id":57,
+        "brand":"Alienware",
+        "productName":"x17 R2",
+        "category":"Gaming Laptop",
+        "price":"1068.61 €",
+        "stock":71,
+        "description":"Original Alienware x17 R2 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.alienware.com\/monitor.jpg"
+    },
+    {
+        "id":58,
+        "brand":"Gigabyte",
+        "productName":"Aorus FI32U",
+        "category":"Gaming Monitor",
+        "price":"2925.99 €",
+        "stock":176,
+        "description":"Original Gigabyte Aorus FI32U für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.gigabyte.com\/aorus.jpg"
+    },
+    {
+        "id":59,
+        "brand":"Logitech",
+        "productName":"G502 X Plus",
+        "category":"Gaming Maus",
+        "price":"124.35 €",
+        "stock":447,
+        "description":"Original Logitech G502 X Plus für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.logitech.com\/gpro_x.jpg"
+    },
+    {
+        "id":60,
+        "brand":"Corsair",
+        "productName":"K95 RGB Platinum",
+        "category":"Gaming Tastatur",
+        "price":"1270.61 €",
+        "stock":135,
+        "description":"Original Corsair K95 RGB Platinum für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.corsair.com\/virtuoso.jpg"
+    },
+    {
+        "id":61,
+        "brand":"SteelSeries",
+        "productName":"Aerox 5 Wireless",
+        "category":"Gaming Maus",
+        "price":"1657.8 €",
+        "stock":218,
+        "description":"Original SteelSeries Aerox 5 Wireless für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.steelseries.com\/arctis_nova.jpg"
+    },
+    {
+        "id":62,
+        "brand":"Razer",
+        "productName":"Blade 15",
+        "category":"Gaming Laptop",
+        "price":"2457.3 €",
+        "stock":289,
+        "description":"Original Razer Blade 15 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.razer.com\/blackshark.jpg"
+    },
+    {
+        "id":63,
+        "brand":"Asus",
+        "productName":"ROG Swift PG259QN",
+        "category":"Gaming Monitor",
+        "price":"990.09 €",
+        "stock":185,
+        "description":"Original Asus ROG Swift PG259QN für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.asus.com\/rog.jpg"
+    },
+    {
+        "id":64,
+        "brand":"Sony",
+        "productName":"PlayStation 5",
+        "category":"Gaming Konsole",
+        "price":"84.91 €",
+        "stock":218,
+        "description":"Original Sony PlayStation 5 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.sony.com\/playstation5.jpg"
+    },
+    {
+        "id":65,
+        "brand":"Alienware",
+        "productName":"AW3423DW QD-OLED",
+        "category":"Gaming Monitor",
+        "price":"2401.73 €",
+        "stock":224,
+        "description":"Original Alienware AW3423DW QD-OLED für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.alienware.com\/monitor.jpg"
+    },
+    {
+        "id":66,
+        "brand":"Nvidia",
+        "productName":"GeForce RTX 4080",
+        "category":"Grafikkarte",
+        "price":"350.27 €",
+        "stock":319,
+        "description":"Original Nvidia GeForce RTX 4080 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.nvidia.com\/rtx_4090.jpg"
+    },
+    {
+        "id":67,
+        "brand":"SteelSeries",
+        "productName":"Apex Pro",
+        "category":"Gaming Tastatur",
+        "price":"502.09 €",
+        "stock":382,
+        "description":"Original SteelSeries Apex Pro für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.steelseries.com\/arctis_nova.jpg"
+    },
+    {
+        "id":68,
+        "brand":"Corsair",
+        "productName":"K95 RGB Platinum",
+        "category":"Gaming Tastatur",
+        "price":"830.55 €",
+        "stock":400,
+        "description":"Original Corsair K95 RGB Platinum für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.corsair.com\/virtuoso.jpg"
+    },
+    {
+        "id":69,
+        "brand":"Nvidia",
+        "productName":"GeForce RTX 4080",
+        "category":"Grafikkarte",
+        "price":"608.44 €",
+        "stock":74,
+        "description":"Original Nvidia GeForce RTX 4080 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.nvidia.com\/rtx_4090.jpg"
+    },
+    {
+        "id":70,
+        "brand":"SteelSeries",
+        "productName":"Arctis Nova Pro",
+        "category":"Gaming Headset",
+        "price":"246.23 €",
+        "stock":15,
+        "description":"Original SteelSeries Arctis Nova Pro für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.steelseries.com\/arctis_nova.jpg"
+    },
+    {
+        "id":71,
+        "brand":"Asus",
+        "productName":"ROG Chakram X",
+        "category":"Gaming Maus",
+        "price":"1108.64 €",
+        "stock":232,
+        "description":"Original Asus ROG Chakram X für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.asus.com\/rog.jpg"
+    },
+    {
+        "id":72,
+        "brand":"Nvidia",
+        "productName":"GeForce RTX 4090",
+        "category":"Grafikkarte",
+        "price":"2949.39 €",
+        "stock":424,
+        "description":"Original Nvidia GeForce RTX 4090 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.nvidia.com\/rtx_4090.jpg"
+    },
+    {
+        "id":73,
+        "brand":"Asus",
+        "productName":"ROG Strix Scope RX",
+        "category":"Gaming Tastatur",
+        "price":"294.93 €",
+        "stock":152,
+        "description":"Original Asus ROG Strix Scope RX für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.asus.com\/rog.jpg"
+    },
+    {
+        "id":74,
+        "brand":"Asus",
+        "productName":"ROG Strix Scope RX",
+        "category":"Gaming Tastatur",
+        "price":"461.47 €",
+        "stock":408,
+        "description":"Original Asus ROG Strix Scope RX für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.asus.com\/rog.jpg"
+    },
+    {
+        "id":75,
+        "brand":"Asus",
+        "productName":"ROG Strix Scope RX",
+        "category":"Gaming Tastatur",
+        "price":"2476.79 €",
+        "stock":235,
+        "description":"Original Asus ROG Strix Scope RX für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.asus.com\/rog.jpg"
+    },
+    {
+        "id":76,
+        "brand":"Asus",
+        "productName":"ROG Ally",
+        "category":"Handheld Gaming",
+        "price":"2785.14 €",
+        "stock":113,
+        "description":"Original Asus ROG Ally für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.asus.com\/rog.jpg"
+    },
+    {
+        "id":77,
+        "brand":"Nintendo",
+        "productName":"Nintendo Switch OLED",
+        "category":"Gaming Konsole",
+        "price":"954.9 €",
+        "stock":333,
+        "description":"Original Nintendo Nintendo Switch OLED für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.nintendo.com\/switch_oled.jpg"
+    },
+    {
+        "id":78,
+        "brand":"Asus",
+        "productName":"ROG Chakram X",
+        "category":"Gaming Maus",
+        "price":"1529.1 €",
+        "stock":475,
+        "description":"Original Asus ROG Chakram X für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.asus.com\/rog.jpg"
+    },
+    {
+        "id":79,
+        "brand":"Sony",
+        "productName":"PlayStation 5",
+        "category":"Gaming Konsole",
+        "price":"1349.05 €",
+        "stock":125,
+        "description":"Original Sony PlayStation 5 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.sony.com\/playstation5.jpg"
+    },
+    {
+        "id":80,
+        "brand":"Asus",
+        "productName":"ROG Zephyrus G14",
+        "category":"Gaming Laptop",
+        "price":"1790.39 €",
+        "stock":486,
+        "description":"Original Asus ROG Zephyrus G14 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.asus.com\/rog.jpg"
+    },
+    {
+        "id":81,
+        "brand":"Alienware",
+        "productName":"x17 R2",
+        "category":"Gaming Laptop",
+        "price":"2720.57 €",
+        "stock":208,
+        "description":"Original Alienware x17 R2 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.alienware.com\/monitor.jpg"
+    },
+    {
+        "id":82,
+        "brand":"Alienware",
+        "productName":"AW3423DW QD-OLED",
+        "category":"Gaming Monitor",
+        "price":"1911.52 €",
+        "stock":461,
+        "description":"Original Alienware AW3423DW QD-OLED für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.alienware.com\/monitor.jpg"
+    },
+    {
+        "id":83,
+        "brand":"Logitech",
+        "productName":"G Pro X Wireless",
+        "category":"Gaming Headset",
+        "price":"877.46 €",
+        "stock":428,
+        "description":"Original Logitech G Pro X Wireless für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.logitech.com\/gpro_x.jpg"
+    },
+    {
+        "id":84,
+        "brand":"Corsair",
+        "productName":"K95 RGB Platinum",
+        "category":"Gaming Tastatur",
+        "price":"2113.4 €",
+        "stock":195,
+        "description":"Original Corsair K95 RGB Platinum für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.corsair.com\/virtuoso.jpg"
+    },
+    {
+        "id":85,
+        "brand":"Samsung",
+        "productName":"Odyssey Neo G9",
+        "category":"Gaming Monitor",
+        "price":"1391.12 €",
+        "stock":285,
+        "description":"Original Samsung Odyssey Neo G9 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.samsung.com\/odyssey_g9.jpg"
+    },
+    {
+        "id":86,
+        "brand":"Razer",
+        "productName":"BlackShark V2 Pro",
+        "category":"Gaming Headset",
+        "price":"1975.28 €",
+        "stock":183,
+        "description":"Original Razer BlackShark V2 Pro für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.razer.com\/blackshark.jpg"
+    },
+    {
+        "id":87,
+        "brand":"Lenovo",
+        "productName":"Legion 7",
+        "category":"Gaming Laptop",
+        "price":"1002.83 €",
+        "stock":481,
+        "description":"Original Lenovo Legion 7 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.lenovo.com\/legion_7.jpg"
+    },
+    {
+        "id":88,
+        "brand":"Lenovo",
+        "productName":"Legion 7",
+        "category":"Gaming Laptop",
+        "price":"2390.84 €",
+        "stock":478,
+        "description":"Original Lenovo Legion 7 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.lenovo.com\/legion_7.jpg"
+    },
+    {
+        "id":89,
+        "brand":"MSI",
+        "productName":"Katana GF66",
+        "category":"Gaming Laptop",
+        "price":"1290.57 €",
+        "stock":318,
+        "description":"Original MSI Katana GF66 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.msi.com\/gaming_laptop.jpg"
+    },
+    {
+        "id":90,
+        "brand":"Asus",
+        "productName":"ROG Swift PG259QN",
+        "category":"Gaming Monitor",
+        "price":"1842.72 €",
+        "stock":257,
+        "description":"Original Asus ROG Swift PG259QN für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.asus.com\/rog.jpg"
+    },
+    {
+        "id":91,
+        "brand":"SteelSeries",
+        "productName":"Aerox 5 Wireless",
+        "category":"Gaming Maus",
+        "price":"2654.22 €",
+        "stock":272,
+        "description":"Original SteelSeries Aerox 5 Wireless für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.steelseries.com\/arctis_nova.jpg"
+    },
+    {
+        "id":92,
+        "brand":"Logitech",
+        "productName":"G Pro X Wireless",
+        "category":"Gaming Headset",
+        "price":"2716.24 €",
+        "stock":54,
+        "description":"Original Logitech G Pro X Wireless für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.logitech.com\/gpro_x.jpg"
+    },
+    {
+        "id":93,
+        "brand":"Asus",
+        "productName":"ROG Swift PG259QN",
+        "category":"Gaming Monitor",
+        "price":"1493.09 €",
+        "stock":415,
+        "description":"Original Asus ROG Swift PG259QN für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.asus.com\/rog.jpg"
+    },
+    {
+        "id":94,
+        "brand":"Corsair",
+        "productName":"Virtuoso RGB Wireless",
+        "category":"Gaming Headset",
+        "price":"2234.64 €",
+        "stock":90,
+        "description":"Original Corsair Virtuoso RGB Wireless für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.corsair.com\/virtuoso.jpg"
+    },
+    {
+        "id":95,
+        "brand":"Corsair",
+        "productName":"Virtuoso RGB Wireless",
+        "category":"Gaming Headset",
+        "price":"326.98 €",
+        "stock":267,
+        "description":"Original Corsair Virtuoso RGB Wireless für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.corsair.com\/virtuoso.jpg"
+    },
+    {
+        "id":96,
+        "brand":"Razer",
+        "productName":"Huntsman Mini",
+        "category":"Gaming Tastatur",
+        "price":"326.09 €",
+        "stock":278,
+        "description":"Original Razer Huntsman Mini für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.razer.com\/blackshark.jpg"
+    },
+    {
+        "id":97,
+        "brand":"Razer",
+        "productName":"Huntsman Mini",
+        "category":"Gaming Tastatur",
+        "price":"2635.4 €",
+        "stock":216,
+        "description":"Original Razer Huntsman Mini für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.razer.com\/blackshark.jpg"
+    },
+    {
+        "id":98,
+        "brand":"Razer",
+        "productName":"BlackShark V2 Pro",
+        "category":"Gaming Headset",
+        "price":"837.31 €",
+        "stock":424,
+        "description":"Original Razer BlackShark V2 Pro für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.razer.com\/blackshark.jpg"
+    },
+    {
+        "id":99,
+        "brand":"Asus",
+        "productName":"ROG Zephyrus G14",
+        "category":"Gaming Laptop",
+        "price":"136.19 €",
+        "stock":114,
+        "description":"Original Asus ROG Zephyrus G14 für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.asus.com\/rog.jpg"
+    },
+    {
+        "id":100,
+        "brand":"Asus",
+        "productName":"ROG Chakram X",
+        "category":"Gaming Maus",
+        "price":"1022.67 €",
+        "stock":85,
+        "description":"Original Asus ROG Chakram X für ein ultimatives Gaming-Erlebnis.",
+        "imageUrl":"https:\/\/cdn.asus.com\/rog.jpg"
+    }
+]
